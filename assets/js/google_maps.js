@@ -69,7 +69,7 @@ function initMap() {
     position: myLatLng,
     map: map,
     icon: image,
-    title: 'LCTRS'
+    title: 'RootEdu'
   });
   
 };
