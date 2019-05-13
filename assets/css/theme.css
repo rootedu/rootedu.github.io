@@ -12761,7 +12761,7 @@ button.close {
   bottom: 0;
   left: 0;
   content: "";
-  background-color: rgba(45, 64, 82, .4);
+  background-color: rgba(169, 169, 169, 0.09);
 }
 #teacher-profile__page .section__teacher-profile > .container .course__item .course-item__info {
   padding-left: 20px;
